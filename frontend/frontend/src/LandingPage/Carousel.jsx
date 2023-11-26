@@ -34,10 +34,10 @@ const Carousel = () => {
         ],
     };
     const [items, setItems] = useState([
-        { id: 1, image: c1, title: "Card title", para: "Some quick example text to build on the card title and make up the bulk of the card's content." },
-        { id: 2, image: c2, title: "Card title", para: "Some quick example text to build on the card title and make up the bulk of the card's content." },
-        { id: 3, image: c3, title: "Card title", para: "Some quick example text to build on the card title and make up the bulk of the card's content." },
-        { id: 4, image: c1, title: "Card title", para: "Some quick example text to build on the card title and make up the bulk of the card's content." },
+        { id: 1, image: c1, title: "Card title", para: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas natus laudantium suscipit." },
+        { id: 2, image: c2, title: "Card title", para: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas natus laudantium suscipit." },
+        { id: 3, image: c3, title: "Card title", para: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas natus laudantium suscipit." },
+        { id: 4, image: c1, title: "Card title", para: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas natus laudantium suscipit." },
        
      
     ]);
